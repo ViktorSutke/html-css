@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(62, 62, 62);
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: pink;
+}
